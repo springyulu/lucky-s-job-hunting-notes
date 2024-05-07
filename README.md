@@ -1,2 +1,2 @@
 # lucky-s-job-hunting-notes
-This is the ruined warehouse of a poor puppy who was hit hard on the road to internship application. He hopes to use the next four months to achieve a counterattack.
+This is the ruined warehouse of a poor puppy who was hit hard on the road to internship application. He hopes to use the next four months to achieve a counterattack. All the notes here are for the back-end development engineer position, including a summary of basic and moderately difficult knowledge points such as test questions, algorithms; java; databases; networks; intermediate prices; Rpc. The above content is all written in xmind.
